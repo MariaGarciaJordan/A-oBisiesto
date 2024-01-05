@@ -24,8 +24,16 @@ Por ejemplo:
 
 El método debe devolver 'true' si un año es bisiesto, y 'false' si no lo es.
 
+## Pruebas
+
+Este proyecto utiliza Jest para las pruebas unitarias. Para ejecutar las pruebas, sigue estos pasos:
+
+1. Instala las dependencias del proyecto con `npm install`.
+2. Ejecuta las pruebas con `npm test`.
+
+Las pruebas verifican la correcta implementación de la función `esBisiesto`.
+
 ## Crédito
 
 Este ejercicio es una adaptación de la kata propuesta por Coding Dojo.
-
 
